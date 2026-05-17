@@ -31,7 +31,7 @@ O grande diferencial desta ferramenta é a execução em **segundo plano**. Voc�
 
 Por ser um arquivo executável compilado (`.exe`), o processo é extremamente simples e não requer a instalação prévia de nenhuma outra ferramenta:
 
-1. Baixe a versão mais recente do arquivo `Cleric_Companium.exe` na aba de **Releases** do repositório.
+1. Baixe a versão mais recente do arquivo `Cleric_Companium.exe` na aba de [**Releases**](https://github.com/hamulyn/roseonline-clericbot/releases/latest) do repositório.
 2. Mova o executável para uma pasta de sua preferência (o script criará automaticamente as subpastas `\Presets` e `\Logs` no mesmo diretório).
 3. Dê um duplo clique no arquivo `Cleric_Companium.exe` para iniciar.
 4. Um ícone aparecerá na sua bandeja do sistema (perto do relógio do Windows) e o menu principal será aberto automaticamente.
